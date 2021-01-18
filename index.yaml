@@ -1,0 +1,52 @@
+apiVersion: v1
+entries:
+  toshi-bitcoin-parser:
+  - apiVersion: v1
+    created: "2021-01-18T17:35:48.945015016Z"
+    description: The Helm chart for the Toshi bitcoin parser
+    digest: 43e012d7685b827158df81f803726be96b12ed322ba1799742dd2dd840dc8aac
+    name: toshi-bitcoin-parser
+    urls:
+    - https://toshi-qcri.github.io/toshi-helm-charts/toshi-bitcoin-parser-0.1.25.tgz
+    version: 0.1.25
+  - apiVersion: v1
+    created: "2021-01-18T17:35:48.946539817Z"
+    description: The Helm chart for the Toshi bitcoin parser
+    digest: 136cc4ac31a9600f6f637ee20083d189ba2a67aebe183f7f335a562082d6ea26
+    name: toshi-bitcoin-parser
+    urls:
+    - https://toshi-qcri.github.io/toshi-helm-charts/toshi-bitcoin-parser/toshi-bitcoin-parser-0.1.24.tgz
+    version: 0.1.24
+  - apiVersion: v1
+    created: "2021-01-18T17:35:48.946233016Z"
+    description: The Helm chart for the Toshi bitcoin parser
+    digest: 80e5b0d65b916131c9747b5514849f2c03228e6124058e654967695f24845b1a
+    name: toshi-bitcoin-parser
+    urls:
+    - https://toshi-qcri.github.io/toshi-helm-charts/toshi-bitcoin-parser/toshi-bitcoin-parser-0.1.23.tgz
+    version: 0.1.23
+  - apiVersion: v1
+    created: "2021-01-18T17:35:48.945866716Z"
+    description: The Helm chart for the Toshi bitcoin parser
+    digest: ed41a1b80b25d1f0b3e59564931b06a840ca0b207812f5c1344848ede2bb1479
+    name: toshi-bitcoin-parser
+    urls:
+    - https://toshi-qcri.github.io/toshi-helm-charts/toshi-bitcoin-parser/toshi-bitcoin-parser-0.1.22.tgz
+    version: 0.1.22
+  - apiVersion: v1
+    created: "2021-01-18T17:35:48.945587316Z"
+    description: The Helm chart for the Toshi bitcoin parser
+    digest: e9a2a07872c0d129f8100ce7454e1965531b76a6f00c9723635515b530339c92
+    name: toshi-bitcoin-parser
+    urls:
+    - https://toshi-qcri.github.io/toshi-helm-charts/bitcoin-parser/toshi-bitcoin-parser-0.1.21.tgz
+    version: 0.1.21
+  - apiVersion: v1
+    created: "2021-01-18T17:35:48.945273416Z"
+    description: The Helm chart for the Toshi bitcoin parser
+    digest: 49e710937e99529f21314d26e5d46f157975d497663794d233a80059974fec5a
+    name: toshi-bitcoin-parser
+    urls:
+    - https://toshi-qcri.github.io/toshi-helm-charts/bitcoin-parser/toshi-bitcoin-parser-0.1.20.tgz
+    version: 0.1.20
+generated: "2021-01-18T17:35:48.944520116Z"
